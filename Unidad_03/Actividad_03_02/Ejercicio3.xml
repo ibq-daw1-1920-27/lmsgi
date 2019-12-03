@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pizzeria xlmns="http://www.lmsgi.net/pizza" xmlns:bbq = "http://www.lmsgi.net/pizza/barbacoa"
+xmlns:haw = "http://www.lmsgi.net/pizza/hawaiana" xmlns:Q4 = "http://www.lmsgi.net/pizza/4quesos"
+xmlns:marg = "http://www.lmsgi.net/pizza/margarita">
+    <pizzas>
+        <bbq:pizza nombre="barbacoa" precio="8">Ingredientes: Salsa Barbacoa, Pollo, Bacon, Jamón, Ternera</pizza>
+        <haw:pizza nombre="hawaiana" precio="7">Ingredientes: Tomate, Mozarella, Jamón, Piña, Queso</pizza>
+        <Q4:pizza nombre="cuatro quesos" precio="7">Ingredientes: Tomate, Mezcla de 4 quesos</pizza>
+        <marg:pizza nombre="margarita" precio="6">Ingredientes: Tomate, Jamón, Queso</pizza>
+    </pizzas>
+</pizzeria>

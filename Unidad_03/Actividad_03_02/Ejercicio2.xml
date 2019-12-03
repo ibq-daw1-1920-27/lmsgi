@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<correo xmlns="http://www.lmsgi.net/mail" xmlns:tbird="http://www.lmsgi.net/mail/thunderbird"
+xmlns:outl="http://www.lmsgi.net/mail/outlook" xmlns:evo="http://www.lmsgi.net/mail/evolution">
+    <tbird:enviados gestor="thunderbird">
+        <tbird:mensaje>
+            <tbird:destinatario>Manuel García</destinatario>
+            <tbird:destinatario2>Fernando Calleja</destinatario2>
+            <tbird:destinatario3>Kiko Olivas</destinatario3>
+            <tbird:origen>Ernesto Reina</origen>
+            <tbird:asunto>Asociación Deportiva el Rostro</asunto>
+            <tbird:cuerpo>Quedada para el día 20 a las 13:30 donde siempre</cuerpo>
+        </mensaje>
+    </enviados>
+    <outl:enviados gestor="outlook">
+        <outl:mensaje>
+            <outl:destinatario>Angela López</destinatario>
+            <outl:origen>María R.S.</origen>
+            <outl:asunto>Trabajo programación</asunto>
+            <outl:cuerpo>Te paso el proyecto con lo que hicimos ayer</cuerpo>
+            <outl:adjunto>JeroquestMaria.zip</adjunto>
+            <outl:adjunto2>Procedimiento12.docx</adjunto>
+        </mensaje>
+    </enviados>
+    <evo:enviados gestor="evolution">
+        <evo:mensaje>
+            <evo:destinatario>Gabriel Díaz</destinatario>
+            <evo:origen>Soporte Amazon</origen>
+            <evo:asunto>Devolución del pedido nº=3452352013 08/10/2020</asunto>
+            <evo:cuerpo>Buenos días, le informamos de que la devolución de su pedido ya ha sido procesada y se le ha devuelto el importe correspondiente.
+            Puede que su compañía bancaria tarde en procesar el ingreso de 2 a 5 días hábiles.</cuerpo>
+        </mensaje>
+    </enviados>
+</correo>
