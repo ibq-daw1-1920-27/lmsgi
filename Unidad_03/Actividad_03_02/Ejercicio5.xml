@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cursos xmlns="http://www.lmsgi.net/cursos" xmlns:php="http://www.lmsgi.net/cursos/php"
+xmlns:xmlc="http://www.lmsgi.net/cursos/xml">
+    <xmlc:curso titulo="xml">
+        <xmlc:docentes>
+            <xmlc:profesor>
+                <xmlc:nombre>Manu</xmlc:nombre>
+            </xmlc:profesor>
+        </xmlc:docentes>
+
+        <xmlc:alumnos>
+            <xmlc:nombre>Jorgito</xmlc:nombre>
+            <xmlc:nombre>Juanito</xmlc:nombre>
+            <xmlc:nombre>Jaimito</xmlc:nombre>
+        </xmlc:alumnos>
+    </xmlc:curso>
+
+    <php:curso titulo="php">
+        <php:docentes>
+            <php:profesor>
+                <php:nombre>Luis</php:nombre>
+            </php:profesor>
+        </php:docentes>
+
+        <php:alumnos>
+            <php:nombre>Maria</php:nombre>
+            <php:nombre>Luisa</php:nombre>
+            <php:nombre>Marta</php:nombre>
+        </php:alumnos>
+    </php:curso>
+</cursos>    
