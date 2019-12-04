@@ -6,91 +6,91 @@ xmlns:SLastra="http://www.lmsgi.net/info_alumnos/Sanchez_Lastra">
     <N1:centro nombre="I.E.S. Número 1" localidad="Gijón">
         <N1:alumnos>
             <N1:alumno>
-                <N1:nombre_alumno>Ana</nombre_alumno>
-                <N1:apellidos>García Pérez</apellidos>
-            </alumno>
+                <N1:nombre_alumno>Ana</N1:nombre_alumno>
+                <N1:apellidos>García Pérez</N1:apellidos>
+            </N1:alumno>
             <N1:alumno>
-                <N1:nombre_alumno>José Luis</nombre_alumno>
-                <N1:apellidos>Fernández Uría</apellidos>
-            </alumno>
+                <N1:nombre_alumno>José Luis</N1:nombre_alumno>
+                <N1:apellidos>Fernández Uría</N1:apellidos>
+            </N1:alumno>
             <N1:alumno>
-                <N1:nombre_alumno>Belén</nombre_alumno>
-                <N1:apellidos>Díaz del Olmo</apellidos>
-            </alumno>
+                <N1:nombre_alumno>Belén</N1:nombre_alumno>
+                <N1:apellidos>Díaz del Olmo</N1:apellidos>
+            </N1:alumno>
             <N1:alumno>
-                <N1:nombre_alumno>Lucía</nombre_alumno>
-                <N1:apellidos>Rodríguez Marqués</apellidos>
-            </alumno>
+                <N1:nombre_alumno>Lucía</N1:nombre_alumno>
+                <N1:apellidos>Rodríguez Marqués</N1:apellidos>
+            </N1:alumno>
             <N1:alumno>
-                <N1:nombre_alumno>Fernando</nombre_alumno>
-                <N1:apellidos>Nava Domínguez</apellidos>
-            </alumno>
+                <N1:nombre_alumno>Fernando</N1:nombre_alumno>
+                <N1:apellidos>Nava Domínguez</N1:apellidos>
+            </N1:alumno>
             <N1:alumno>
-                <N1:nombre_alumno>Eva</nombre_alumno>
-                <N1:apellidos>García González</apellidos>
-            </alumno>
+                <N1:nombre_alumno>Eva</N1:nombre_alumno>
+                <N1:apellidos>García González</N1:apellidos>
+            </N1:alumno>
             <N1:alumno>
-                <N1:nombre_alumno>Bernardo</nombre_alumno>
-                <N1:apellidos>Criado Martínez</apellidos>
-            </alumno>
-        </alumnos>
-    </centro>
+                <N1:nombre_alumno>Bernardo</N1:nombre_alumno>
+                <N1:apellidos>Criado Martínez</N1:apellidos>
+            </N1:alumno>
+        </N1:alumnos>
+    </N1:centro>
 
     <CIFPAv:centro nombre_alumno="C.I.F.P. de Avilés" localidad="Avilés">
         <CIFPAv:alumnos>
             <CIFPAv:alumno>
-                <CIFPAv:nombre_alumno>Luisa</nombre_alumno>
-                <CIFPAv:apellidos>Martín López</apellidos>
-            </alumno>
+                <CIFPAv:nombre_alumno>Luisa</CIFPAv:nombre_alumno>
+                <CIFPAv:apellidos>Martín López</CIFPAv:apellidos>
+            </CIFPAv:alumno>
             <CIFPAv:alumno>
-                <CIFPAv:nombre_alumno>Ernesto</nombre_alumno>
-                <CIFPAv:apellidos>Viejo Pérez</apellidos>
-            </alumno>
-        </alumnos>
-    </centro>
+                <CIFPAv:nombre_alumno>Ernesto</CIFPAv:nombre_alumno>
+                <CIFPAv:apellidos>Viejo Pérez</CIFPAv:apellidos>
+            </CIFPAv:alumno>
+        </CIFPAv:alumnos>
+    </CIFPAv:centro>
 
     <DFle:centro nombre_alumno="I.E.S. Doctor Fleming" localidad="Oviedo">
         <DFle:alumnos>
             <DFle:alumno>
-                <DFle:nombre_alumno>Pedro</nombre_alumno>
-                <DFle:apellidos>González Rubiera</apellidos>
-            </alumno>
-        </alumnos>
-    </centro>
+                <DFle:nombre_alumno>Pedro</DFle:nombre_alumno>
+                <DFle:apellidos>González Rubiera</DFle:apellidos>
+            </DFle:alumno>
+        </DFle:alumnos>
+    </DFle:centro>
 
     <IBQ:centro nombre_alumno="I.E.S. Bernaldo de Quirós" localidad="Mieres">
         <IBQ:alumnos>
             <IBQ:alumno>
-                <IBQ:nombre_alumno>Clara</nombre_alumno>
-                <IBQ:apellidos>García del Riego</apellidos>
-            </alumno>
+                <IBQ:nombre_alumno>Clara</IBQ:nombre_alumno>
+                <IBQ:apellidos>García del Riego</IBQ:apellidos>
+            </IBQ:alumno>
             <IBQ:alumno>
-                <IBQ:nombre_alumno>Luciano</nombre_alumno>
-                <IBQ:apellidos>Rodríguez Nieto</apellidos>
-            </alumno>
-        </alumnos>
-    </centro>
+                <IBQ:nombre_alumno>Luciano</IBQ:nombre_alumno>
+                <IBQ:apellidos>Rodríguez Nieto</IBQ:apellidos>
+            </IBQ:alumno>
+        </IBQ:alumnos>
+    </IBQ:centro>
 
     <CIFPSIS:centro nombre_alumno="C.I.F.P. Sectores Industrial y de Servicios" localidad="Gijón">
         <CIFPSIS:alumnos>
             <CIFPSIS:alumno>
-                <CIFPSIS:nombre_alumno>Javier</nombre_alumno>
-                <CIFPSIS:apellidos>Gómez Lamela</apellidos>
-            </alumno>
+                <CIFPSIS:nombre_alumno>Javier</CIFPSIS:nombre_alumno>
+                <CIFPSIS:apellidos>Gómez Lamela</CIFPSIS:apellidos>
+            </CIFPSIS:alumno>
             <CIFPSIS:alumno>
-                <CIFPSIS:nombre_alumno>Óscar</nombre_alumno>
-                <CIFPSIS:apellidos>Álvarez Cortés</apellidos>
-            </alumno>
-        </alumnos>
-    </centro>
+                <CIFPSIS:nombre_alumno>Óscar</CIFPSIS:nombre_alumno>
+                <CIFPSIS:apellidos>Álvarez Cortés</CIFPSIS:apellidos>
+            </CIFPSIS:alumno>
+        </CIFPSIS:alumnos>
+    </CIFPSIS:centro>
 
     <SLastra:centro nombre_alumno="I.E.S. Sánchez Lastra" localidad="Mieres">
         <SLastra:alumnos>
             <SLastra:alumno>
-                <SLastra:nombre_alumno>Sofía</nombre_alumno>
-                <SLastra:apellidos>Reigal Pérez</apellidos>
-            </alumno>
-        </alumnos>
-    </centro>
-    
+                <SLastra:nombre_alumno>Sofía</SLastra:nombre_alumno>
+                <SLastra:apellidos>Reigal Pérez</SLastra:apellidos>
+            </SLastra:alumno>
+        </SLastra:alumnos>
+    </SLastra:centro>
+
 </informacion_alumnos>
