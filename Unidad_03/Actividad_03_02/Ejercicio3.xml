@@ -3,9 +3,20 @@
 xmlns:haw = "http://www.lmsgi.net/pizza/hawaiana" xmlns:Q4 = "http://www.lmsgi.net/pizza/4quesos"
 xmlns:marg = "http://www.lmsgi.net/pizza/margarita">
     <pizzas>
-        <bbq:pizza nombre="barbacoa" precio="8">Ingredientes: Salsa Barbacoa, Pollo, Bacon, Jamón, Ternera</pizza>
-        <haw:pizza nombre="hawaiana" precio="7">Ingredientes: Tomate, Mozarella, Jamón, Piña, Queso</pizza>
-        <Q4:pizza nombre="cuatro quesos" precio="7">Ingredientes: Tomate, Mezcla de 4 quesos</pizza>
-        <marg:pizza nombre="margarita" precio="6">Ingredientes: Tomate, Jamón, Queso</pizza>
+        <bbq:pizza nombre="barbacoa" precio="8">
+            <bbq:ingredientes>Salsa Barbacoa, Pollo, Bacon, Jamón, Ternera</ingredientes>
+        </pizza>
+
+        <haw:pizza nombre="hawaiana" precio="7">
+            <haw:ingredientes>Tomate, Mozarella, Jamón, Piña, Queso</ingredientes>
+        </pizza>
+
+        <Q4:pizza nombre="cuatro quesos" precio="7">
+            <Q4:ingredientes>Tomate, Mezcla de 4 quesos</ingredientes>
+        </pizza>
+
+        <marg:pizza nombre="margarita" precio="6">
+            <marg:ingredientes>Tomate, Jamón, Queso</ingredientes>
+        </pizza>
     </pizzas>
 </pizzeria>
