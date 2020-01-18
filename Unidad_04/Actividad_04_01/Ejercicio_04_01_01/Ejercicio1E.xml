@@ -5,6 +5,6 @@
 ]>
 
 <animales>
-<animal>perro</animal>
-<animal>gato</animal>
+    <animal>perro</animal>
+    <animal>gato</animal>
 </animales>
