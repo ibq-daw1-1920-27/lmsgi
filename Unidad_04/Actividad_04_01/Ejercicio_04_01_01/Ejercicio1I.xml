@@ -10,8 +10,6 @@
 <sistemaSolar>
     <cuerpo>
         <planeta>Tierra</planeta>
-    </cuerpo>
-    <cuerpo>
         <satelite>Luna</satelite>
     </cuerpo>
     <cuerpo>
