@@ -8,7 +8,7 @@
 
 <futbol>
     <jugador nombre="Alfredo Di Stéfano" codigo="J1"/>
-    <jugador nombre="Edson Arantes do Nascimento, Pelé" codigo="J2" />
+    <jugador nombre="Edson Arantes do Nascimento Pelé" codigo="J2" />
     <jugador nombre="Diego Armando Maradona" codigo="J3" />
     <jugador nombre="Johan Cruyff" codigo="J4" />
 </futbol>
