@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="bib">
+        <xs:complexType>
+            <xs:choice maxOccurs="unbounded">
+                <xs:element name="libro">
+                    <xs:complexType>
+                        <xs:attribute name="titulo" type="xs:string" use="required"/>
+                        <xs:attribute name="editorial" type="xs:string" use="required"/>
+                        <xs:attribute name="autor" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="revista">
+                    <xs:complexType>
+                        <xs:attribute name="titulo" type="xs:string" use="required"/>
+                        <xs:attribute name="editorial" type="xs:string" use="required"/>
+                        <xs:attribute name="numero" type="xs:integer" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
