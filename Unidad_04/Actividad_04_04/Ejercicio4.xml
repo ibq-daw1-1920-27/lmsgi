@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<figuras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Ejercicio4.xsd">
+    <figura coloresHEX="FFAA9B" tipo="image/gif">
+        <nombre>Cuadrado</nombre>
+        <lado>2</lado>
+    </figura>
+    <figura coloresHEX="AF549A" tipo="image/png">
+        <nombre>Triángulo</nombre>
+        <base>5</base>
+        <altura>3</altura>
+    </figura>
+    <figura coloresHEX="DFAA71" tipo="image/jpg">
+        <nombre>Círculo</nombre>
+        <radio>6</radio>
+    </figura>
+</figuras>

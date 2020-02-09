@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="figuras">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="figura" maxOccurs="30">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:choice maxOccurs="2">
+                                <xs:element name="lado" type="xs:string"/>
+                                <xs:element name="base" type="xs:string"/>
+                                <xs:element name="altura" type="xs:string"/>
+                                <xs:element name="radio" type="xs:string"/>
+                            </xs:choice>
+                        </xs:sequence>
+                        <xs:attribute name="tipo">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="image/jpg"/>
+                                    <xs:enumeration value="image/png"/>
+                                    <xs:enumeration value="image/gif"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="coloresHEX">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:pattern value="[A-Z0-9]{6}"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
