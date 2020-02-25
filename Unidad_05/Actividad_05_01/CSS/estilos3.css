@@ -1,0 +1,27 @@
+* {
+    width: 960px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#lateral {
+    width: 260px;
+    float: left;
+}
+
+#principal {
+    width: 700px; 
+    margin-left: 260px;
+}
+
+.lista {
+    display: flex;
+    width: auto;
+    text-align: left;
+}
+
+

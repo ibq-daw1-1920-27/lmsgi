@@ -1,3 +1,6 @@
-﻿h1 {border: 2px solid; border-color: #00FF;}
-h2  {border: 2px solid; border-color: #AAAAAA;}
+﻿* {margin-left: 10px; margin-right: 10px;}
+h1 {margin-top: 30px; margin-bottom: 30px; padding: 10px; border: 2px solid; border-color: #00FF;}
+h2  {padding: 2px; border: 2px solid; border-color: #AAAAAA;}
 ul {border: 2px solid; border-color: #0FF0;}
+h2, ul {margin-top: 15px; margin-bottom: 15px;}
+.lista1{margin: 15px;}
