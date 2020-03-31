@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bib[
+<!ELEMENT bib (libro|revista)+>
+<!ELEMENT libro EMPTY>
+<!ELEMENT revista EMPTY>
+<!ATTLIST libro titulo CDATA #REQUIRED>
+<!ATTLIST libro editorial CDATA #REQUIRED>
+<!ATTLIST libro autor CDATA #REQUIRED>
+<!ATTLIST revista titulo CDATA #REQUIRED>
+<!ATTLIST revista editorial CDATA #REQUIRED>
+<!ATTLIST revista numero CDATA #REQUIRED>
+]>
+
+<bib>
+    <libro titulo="El Quijote" editorial="Anaya" autor="Cervantes" />
+    <revista titulo="Guernica" editorial="Leon" numero="15" />
+    <revista titulo="Coches" editorial="CA" numero="3" />
+</bib>
+
