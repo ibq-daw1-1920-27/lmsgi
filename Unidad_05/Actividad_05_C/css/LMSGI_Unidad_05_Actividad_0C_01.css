@@ -18,13 +18,11 @@ p{
 
 #principal em{
     background-color: #ffffcc;
-    padding: 1em;
 }
 
 em.segundo{
     background-color: #FFCC99;
     border: 1px #FF9900 solid;
-    padding: 1em;
 }
 
 .divisor span{
